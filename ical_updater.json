@@ -1,14 +1,14 @@
 {
     "sensor.ical": {
-      "updated_at": "2019-09-20",
-      "version": "0.6",
+      "updated_at": "2020-012-22",
+      "version": "0.7",
       "local_location": "/custom_components/ical/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/tybritten/ical-sensor-homeassistant/master/__init__.py",
-      "visit_repo": "https://github.com/tybritten/ical-sensor-homeassistant/",
-      "changelog": "https://github.com/tybritten/ical-sensor-homeassistant/releases/latest",
+      "remote_location": "https://raw.githubusercontent.com/xmlguy74/ical-sensor-homeassistant/master/__init__.py",
+      "visit_repo": "https://github.com/xmlguy74/ical-sensor-homeassistant/",
+      "changelog": "https://github.com/xmlguy74/ical-sensor-homeassistant/releases/latest",
       "resources": [
-        "https://raw.githubusercontent.com/tybritten/ical-sensor-homeassistant/master/sensor.py",
-        "https://raw.githubusercontent.com/tybritten/ical-sensor-homeassistant/master/manifest.json"
+        "https://raw.githubusercontent.com/xmlguy74/ical-sensor-homeassistant/master/sensor.py",
+        "https://raw.githubusercontent.com/xmlguy74/ical-sensor-homeassistant/master/manifest.json"
       ]
     }
 }

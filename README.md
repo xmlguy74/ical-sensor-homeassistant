@@ -33,7 +33,7 @@ custom_updater:
   track:
     - components
   component_urls:
-    - https://raw.githubusercontent.com/tybritten/ical-sensor-homeassistant/master/ical_updater.json
+    - https://raw.githubusercontent.com/xmlguy74/ical-sensor-homeassistant/master/ical_updater.json
 
 ```
 
